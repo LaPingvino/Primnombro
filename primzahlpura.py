@@ -46,10 +46,3 @@ while limo:
 
     limo=input('bv denove tajpi, se vi ŝatas:')
 print 'nun finiĝis!'
-
-
-
-
-
-
-
